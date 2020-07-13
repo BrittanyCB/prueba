@@ -1,0 +1,5 @@
+D:\britt\Documents\Laboratorio4\Capa_Datos\bin\Debug\Capa_Datos.dll
+D:\britt\Documents\Laboratorio4\Capa_Datos\bin\Debug\Capa_Datos.pdb
+D:\britt\Documents\Laboratorio4\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+D:\britt\Documents\Laboratorio4\Capa_Datos\obj\Debug\Capa_Datos.dll
+D:\britt\Documents\Laboratorio4\Capa_Datos\obj\Debug\Capa_Datos.pdb
